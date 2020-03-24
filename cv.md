@@ -11,8 +11,8 @@ I am looking for a job, where I can apply my knowledge and skills in a real work
   
 ### Experience:
 
-* Coding tests as a part of RS School course in JavaScript (https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars-stage-1.md)
-* HackerRank JavaScript Practice (https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+* Coding tests as a part of RS School course in JavaScript (<https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars-stage-1.md>)
+* HackerRank JavaScript Practice (<https://www.hackerrank.com/domains/tutorials/10-days-of-javascript>)
 * Senior Sales Representative, real-estate market, Egypt, 2008 to 2019
 
 ### Education:
