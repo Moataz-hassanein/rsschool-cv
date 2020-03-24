@@ -32,7 +32,7 @@ I am looking for a job, where I can apply my knowledge and skills in a real work
   - Git
   - MS Office
 
-### Personal Skills
+### Personal Skills:
 
 * Self-confidence and autonomy (as displayed through entering a new job field despite the fact that it is totally different than my studies)
 * Excellent negotiation and communication skills (as displayed through achieving highest sales several times throughout my career and organizing several successful marketing campaigns)
