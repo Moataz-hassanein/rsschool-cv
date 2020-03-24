@@ -1,2 +1,1 @@
-# rsschool-cv
-Repo for CV task
+https://Moataz-hassanein.github.io/rsschool-cv/cv
