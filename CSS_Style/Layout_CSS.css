@@ -1,0 +1,292 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*start header*/
+
+.top{
+    width: 1000px;
+    height: 240px;
+    background-color:#3449dc;
+    position: relative;
+ }
+
+.top div{
+   
+width: 140px;
+height: 140px;
+border-radius: 70px;
+background-color: #61c3f8;
+position: absolute;
+top: 50px;
+left: 80px;
+}
+.top h1{
+width: 268px;
+height: 44px;
+font-size: 39px;
+letter-spacing: 2px;
+line-height: 49px;
+color: #ffffff;
+font-family: "Montserrat";
+position: absolute;
+top:45px;
+left:260px;
+}
+.top p{
+width: 160px;
+height: 43px;
+font-size: 23px;
+line-height: 49px;
+color: #ffffff;
+font-family: "Open Sans";
+font-weight: 300;
+position: absolute;
+top:90px;
+left:260px;
+}
+.top nav{   
+height: 150px;
+width: 150px;
+font-size: 18px;
+line-height: 26px;
+color: #ffffff;
+font-family: "Open Sans";
+font-weight: 400;    
+position: absolute;
+top: 20px;
+right: 20px;
+}
+ul{
+    line-height: 30px;
+}
+.location{
+
+    list-style-image:url(Images/Location.png) ;
+}
+.globe{
+    list-style-image:url(Images/Globe.png) ;
+}
+
+.globe a{
+    text-decoration: transparent;
+    color: white;
+}
+.phone{
+    list-style-image:url(Images/Phone.png) ;
+}
+/* End of header */
+/* Start of aside*/
+.info{
+    background-color:  #f4f8f8fd;
+    background-image: linear-gradient(to left,#f4f8f8fd ,white);
+    float: left;
+    width:300px;
+    height: 980px;
+        
+}
+.profile{
+    width:250px;
+    height:250px;
+    position: relative;
+    
+}
+.profile img{
+position: absolute;
+top: 15px;
+left: 35px;
+border-radius: 50%;
+}
+.profile h3{
+    position: absolute;
+    top: 5px;
+    left: 100px;
+}
+.profile article{
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 22px;
+}
+.interests{
+    width:250px;
+    height:230px;
+   position: relative;
+   top: 15px;
+    
+}
+.interests header img{
+    margin-left: 35px;
+}
+.interests h3 {
+    position: absolute;
+    left: 100px;
+    top: -10px;
+
+}
+.interests article{
+    position: absolute;
+    top: 60px;
+}
+.interests ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+.interests img{
+
+    margin-left: 17px;
+    border-radius: 50%;
+}
+.pic li{
+    float: left;
+    
+}
+
+.word li{
+    float: left;
+    margin-left: 20px;
+   
+}
+.reference{
+    width:250px;
+    height:300px;
+    position: relative;
+}
+.reference img{
+    top: 15px;
+    left: 35px;
+    border-radius: 50%;
+    position: absolute;
+    }
+.reference h3{
+    position: absolute;
+    top: 5px;
+    left: 100px;
+}   
+.reference article{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+} 
+.reference article .circle2{
+
+    top: 130px;
+}
+.reference article p{
+width: 0px;
+height: 102px;
+position: absolute;
+left: 44px;
+top: 18px;
+border: .5px solid #b0bbbb;
+
+}
+.reference .now{
+    list-style-type: none;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reference .before{
+    list-style-type: none;
+    position: absolute;
+    left: 60px;
+    top: 185px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.reference strong{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(18, 90, 163);
+     
+}
+.awwards{
+    width:250px;
+    height:200px;
+    position: relative;
+}
+.awwards img{
+    position: absolute;
+    top: 5px;
+    left: 35px;
+    border-radius: 50%;
+}
+.awwards h3{
+    position: absolute;
+    top: -8px;
+    left: 100px;
+}
+.awwards article{
+    position: absolute;
+    top: 40px;
+    left: 5px;
+}
+.awwards ul li{
+    list-style-type: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*End of aside*/
+/*start of main */
+main {
+    width:700px;
+    height: 980px;
+    position: relative;
+    left: 300px;
+   
+}
+main header img{
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    border-radius: 50%;
+}
+main header h2{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+main section figure{
+    float: left;
+}
+main section{
+    position: absolute;
+    top: 110px;
+    left: 50px;
+}
+main section figure p {
+    text-align: center;
+}
+main section figure strong{
+        margin-left: 55px;
+}
+main section figure{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+main section figure:hover{
+    transform: scale(1.2,1.2);
+    transition: 1s linear .3s;
+}
+/* end of main */
+/*start of footer*/
+footer{
+   width: 1000px; 
+ height: 70px;
+ background-color:#3449dc;
+ position: relative;
+
+ 
+}
+footer p{
+    color: white;
+    position: absolute;
+    top: 16px;
+    left: 60px;
+}
+/*end of footer*/
